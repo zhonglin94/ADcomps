@@ -15,7 +15,7 @@ clc;
 close all;
 % We begin by loading the required modules
 mrstModule clear
-mrstModule add ad-compositional ad-core ad-props mrst-gui  ad-blackoil
+mrstModule add ADcomps-master ad-core ad-props mrst-gui  ad-blackoil
 [ state, model, schedule] = compsExampleSetUp;
 % Solve
 nls = NonLinearSolver('useLinesearch', true);

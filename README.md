@@ -8,6 +8,7 @@ ADcomps is a multi-phase compositional simulator which is able to model and eval
 2. Run the compositionalExample in ADcomps.
 # The framework of ADcomps
 ![Image text](https://github.com/zhonglin94/ADcomps/blob/master/image%20folder/frame%20of%20ADcomps.png)
+note: ADcomps moudules are marked with red flags
 # Notice
 1. I upload the ECE as a zip file. It should be uncompressed before running the example;
 2. It sometimes goes wrong because of the path. If the scripts fail to add the files automatically, please add them into the MATLAB environment manually. 

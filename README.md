@@ -7,7 +7,7 @@ ADcomps is a multi-phase compositional simulator which is able to model and eval
 1. Run the startup in MRST;
 2. Run the compositionalExample in ADcomps.
 # The framework of ADcomps
-
+ADcomps/image folder/frame of ADcomps.png
 # Notice
 1. I upload the ECE as a zip file. It should be uncompressed before running the example;
 2. It sometimes goes wrong because of the path. If the scripts fail to add the files automatically, please add them into the MATLAB environment manually. 

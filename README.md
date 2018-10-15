@@ -7,6 +7,7 @@ ADcomps is a multi-phase compositional simulator which is able to model and eval
 1. Run the startup in MRST;
 2. Run the compositionalExample in ADcomps.
 ![Image text](https://github.com/zhonglin94/ADcomps/blob/master/image%20folder/SPE_1%20example.png)
+This figure demonstrates the mole composition of CO2 in the aqueous phase
 # The framework of ADcomps
 ![Image text](https://github.com/zhonglin94/ADcomps/blob/master/image%20folder/ADcomps%20framework.png)
 Note: ADcomps moudules are marked with red flags

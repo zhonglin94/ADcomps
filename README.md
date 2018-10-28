@@ -8,6 +8,8 @@ ADcomps is a multi-phase compositional simulator which is able to model and eval
 2. Run the compositionalExample in ADcomps.
 ![Image text](https://github.com/zhonglin94/ADcomps/blob/master/image%20folder/SPE_1%20example.gif)
 This figure demonstrates the mole composition of aqueous phase during CO2 flooding
+![Image text](https://github.com/zhonglin94/ADcomps/blob/master/image%20folder/Comparison%20between%20ADcomps%20and%20Eclipse.png)
+This figure demonstrates comparision of simulation results between ADcomps and Eclipse
 # The framework of ADcomps
 ![Image text](https://github.com/zhonglin94/ADcomps/blob/master/image%20folder/ADcomps%20framework.png)
 Note: ADcomps moudules are marked with red flags

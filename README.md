@@ -11,7 +11,7 @@ The mole composition of aqueous phase during CO2 flooding
 
 ![Image text](https://github.com/zhonglin94/ADcomps/blob/master/image%20folder/Comparison%20between%20ADcomps%20and%20Eclipse.png)
 
-Comparision of simulation results between ADcomps and Eclipse
+Comparision of simulation results between ADcomps (consider CO2 solubility in water) and Eclipse (water is an inert phase)
 # The framework of ADcomps
 ![Image text](https://github.com/zhonglin94/ADcomps/blob/master/image%20folder/ADcomps%20framework.png)
 Note: ADcomps moudules are marked with red flags

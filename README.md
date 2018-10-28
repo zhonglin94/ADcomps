@@ -11,7 +11,7 @@ ADcomps is a multi-phase compositional simulator which is able to model and eval
 ![Image text](https://github.com/zhonglin94/ADcomps/blob/master/image%20folder/SPE_1%20example.gif)
 CO2 solubility in water (mol%) during CO2 flooding calculated by ADcomps
 
-![Image text](https://github.com/zhonglin94/ADcomps/blob/master/image%20folder/Comparison%20between%20ADcomps%20and%20Eclipse.png)
+![Image text](https://github.com/zhonglin94/ADcomps/blob/master/image%20folder/Simulation%20results%20of%20ADcomps.png)
 
 Comparision of simulation results between ADcomps (consider CO2 solubility in water) and Eclipse (water is an inert phase)
 # The framework of ADcomps

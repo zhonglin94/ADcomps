@@ -9,8 +9,7 @@ ADcomps is a multi-phase compositional simulator which is able to model and eval
 
 
 ![Image text](https://github.com/zhonglin94/ADcomps/blob/master/image%20folder/SPE_1%20example.gif)
-The mole composition of aqueous phase during CO2 flooding
-
+CO2 solubility in water (mol%) during CO2 flooding calculated by ADcomps
 
 ![Image text](https://github.com/zhonglin94/ADcomps/blob/master/image%20folder/Comparison%20between%20ADcomps%20and%20Eclipse.png)
 
